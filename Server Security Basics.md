@@ -20,7 +20,7 @@
 - Typically process data
 - Purpose is to share data / hardware / software resources among clients
 - Client-Server model
-- Client run on same computer or conect to server over the network
+- Client run on same computer or connect to server over the network
 
 ## Security
 
@@ -65,12 +65,12 @@
     - Subnet mask
     - default gateway
 
-### Netwok Service Server - DNS
+### Network Service Server - DNS
 - Domain Name System
 - Resolve device and domain name to IP address
 - Resolve IP address to device and domain name
 
-### Diretory Services Server
+### Directory Services Server
 - Accepts and verify credentials of user
 - Example: Active Directory Domain Services (AD DS)
 - Act as core directory service for an organisation
@@ -100,7 +100,7 @@
     - Data in transit
 
 ### DoS / DDoS Attack
-- Attack that prevent system from processing or responding to legitamate traffic
+- Attack that prevent system from processing or responding to legitimate traffic
 - Transmit many data packets to flood the server traffic
 - Other forms focus on exploitation of known faults or vulnerabilities of OS, service or application
 - Exploiting the fault often result in
@@ -123,12 +123,12 @@
 - Created by leaving connection half open
     - Sends a spoofed SYN packet
     - Server tries to respond but unable to reach client
-- Server continuously leaves open connnections waiting for the connection to timeot before freeing the port
+- Server continuously leaves open connections waiting for the connection to timeout before freeing the port
 
 ### Ping Flood
 - Flood victim with ping request
 - Very effective when launched by zombies in a botnet (DDoS)
-- System gets ocerwhelmed trying to answer ping request
+- System gets overwhelmed trying to answer ping request
 - Common Mitigation
     - Block ICMP traffic
     - Use Active intrusion detection system
@@ -148,7 +148,7 @@
 ## Defense-in-Depth
 - Layered security seen as best protection for system security
 - To fully compromise te system, attacker must get past multiple security control
-    - Provide control diversit
+    - Provide control diversity
 - Reduce potential attack surface
     - Make it more likely the attack will be prevented
 
@@ -159,7 +159,7 @@
     - System Incompatibilities
     - Human error
     - Cyber Attacks
-- Includes company's procedue and policy to recover from such events
+- Includes company's procedure and policy to recover from such events
 - Organisations sensitive to risk of disaster will develop effective and documented Disaster Recovery Plan (DRP)
     - Identify scenarios of natural and non natural disaster and options for protecting system
     - Identify task, resources and responsibility for responding to the disaster

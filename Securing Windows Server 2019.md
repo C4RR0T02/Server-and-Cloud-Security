@@ -44,13 +44,13 @@ Steps to encrypt
 1. File will be encrypted with the `FEK`
 2. 3 boxes to be attached to the front of the file packet
 3. `FEK` is placed in each of the 3 boxes at the front of the encrypted file
-4. Encrypt the 3 boxes containing the `FEK` with `User A Public Key`, `User B Public Key` and `Rexovery Agent Public Key`
+4. Encrypt the 3 boxes containing the `FEK` with `User A Public Key`, `User B Public Key` and `Recovery Agent Public Key`
 
 ### Terminology
 
 Boxes containing `User A Public Key` and `User B Public Key` is known as `Data Decryption Field (DDF)` 
 
-Boxes containing the `Rexovery Agent Public Key` is known as `Data Recovery Field (DRF)`
+Boxes containing the `Recovery Agent Public Key` is known as `Data Recovery Field (DRF)`
 
 ### How it works
 
@@ -72,11 +72,11 @@ Malware
 
 Viruses
 
-    Malicious executable that are embeded into files
+    Malicious executable that are embedded into files
 
 Worms
 
-    Self propogating virus through the network
+    Self propagating virus through the network
 
 Trojan
 
@@ -88,7 +88,7 @@ Ransomware
 
 Spyware
 
-    Software that tracks the system inputs and activiteis to gather information and credentials
+    Software that tracks the system inputs and activities to gather information and credentials
 
 ---
 
@@ -119,7 +119,7 @@ Man-in-the-middle attack
     - DDos aware network appliances and services
     - Host based firewalls
     - Antivirus software
-    - Antimalware software
+    - Anti-malware software
     - Secure Communications
 
 ## Implementing Windows firewall and advanced security
