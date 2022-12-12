@@ -219,3 +219,49 @@ Man-in-the-middle attack
 6. Determine the Quota (Soft Quota [Able to exceed limit] / Hard Quota [Stop at the limit])
 7. Add Threshold
 
+## File Screening
+
+1. Open File Server Resource Manager
+2. Click `Create File Group` under File Group
+3. Configure the file group name and the types of file to include or exclude
+4. Click `Create a File Screen Template` under File Screen Templates
+5. Configure the Template name
+6. Select the screening type
+    - Active
+        - Do not allow users to save unauthorized file
+    - Passive
+        - Used for monitoring
+7. Select File Group to block      
+8. Click `Create File Screens` under File Screens
+9. Select the File Screen Path and to derive the property from the templates  
+
+# Securing Windows Server 2019 - Manage Privileged Identities
+
+## User Rights
+
+- Use Group Policy Management Editor to assign user rights based on policy
+
+## Delegate Privileges
+
+- Use ADUC (Active Directory Users and Computer)
+
+## Creating Task Pad
+
+- Simpler View
+- Can be configured to show only necessary settings
+
+## Password Policy
+
+- Password Age
+- Password History
+
+## Account lockout policy
+
+- Lockout Duration
+- Lockout  Threshold
+- Reset Account Lockout Counter after
+
+# Securing Windows Server 2019 - Configure Advanced Audit Policies
+
+## Audit Policy
+

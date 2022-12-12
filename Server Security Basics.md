@@ -25,8 +25,8 @@
 ## Security
 
 - Confidentiality
-    - Limit access and disclosure to authorised users
-    - Prevent access to unauthorised people
+    - Limit access and disclosure to authorized users
+    - Prevent access to unauthorized people
 - Integrity
     - Maintain data consistency
     - Preserve data at rest and in transit
@@ -35,7 +35,7 @@
 
 ## Server Roles
 
-- Servers are deployed to offer services that provide business value to the organisation
+- Servers are deployed to offer services that provide business value to the organization
 - Installation, configuration, management of server roles vary depending on the OS version
 - Uses Add Roles and Features Wizard for role addition in Window's Server
 
@@ -73,7 +73,7 @@
 ### Directory Services Server
 - Accepts and verify credentials of user
 - Example: Active Directory Domain Services (AD DS)
-- Act as core directory service for an organisation
+- Act as core directory service for an organization
     - Manage hierarchial relationship between network objects
 
 ## Server Attack Vectors
@@ -160,7 +160,7 @@
     - Human error
     - Cyber Attacks
 - Includes company's procedure and policy to recover from such events
-- Organisations sensitive to risk of disaster will develop effective and documented Disaster Recovery Plan (DRP)
+- Organizations sensitive to risk of disaster will develop effective and documented Disaster Recovery Plan (DRP)
     - Identify scenarios of natural and non natural disaster and options for protecting system
     - Identify task, resources and responsibility for responding to the disaster
     - Train staff on the planning procedure and how to react
