@@ -258,7 +258,7 @@ Man-in-the-middle attack
 ## Account lockout policy
 
 - Lockout Duration
-- Lockout  Threshold
+- Lockout Threshold
 - Reset Account Lockout Counter after
 
 # Securing Windows Server 2019 - Configure Advanced Audit Policies

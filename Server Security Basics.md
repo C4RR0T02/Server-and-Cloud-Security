@@ -147,7 +147,7 @@
 
 ## Defense-in-Depth
 - Layered security seen as best protection for system security
-- To fully compromise te system, attacker must get past multiple security control
+- To fully compromise the system, attacker must get past multiple security control
     - Provide control diversity
 - Reduce potential attack surface
     - Make it more likely the attack will be prevented

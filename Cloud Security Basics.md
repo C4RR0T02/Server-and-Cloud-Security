@@ -62,7 +62,7 @@
 
 ### AWS Manage
 
--  Compute
+- Compute
 - Storage
 - Database
 - Networking
