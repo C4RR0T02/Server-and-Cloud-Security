@@ -175,7 +175,7 @@
     - Restores in the fastest time
     - Take the latest full backup to recover all the data
 2. Incremental
-    - New files and files modified since last full backup
+    - New files and files modified since last backup
     - Requires least amount of time to back up
     - Restores the slowest
     - Takes the initial full back up and each set of incremental backup after the initial full backup to recover all data

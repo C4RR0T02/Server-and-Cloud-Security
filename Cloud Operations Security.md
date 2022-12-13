@@ -33,7 +33,7 @@ Security Operations should
 
 ## What is monitoring
 
-- Continuos verification of security and performance of resources, applications and data
+- Continuous verification of security and performance of resources, applications and data
 - AWS provide services that give visibility to spot issue before it impacts the operation
     - AWS CloudTrail
     - Amazon Cloudwatch
